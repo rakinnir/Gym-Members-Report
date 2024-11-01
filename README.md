@@ -6,10 +6,10 @@ This Tableau dashboard provides insights into gym member data across various hea
 ## Dashboard Previews
 
 Dashboard 1
-![Dashboard 1](images/dashboard_1.png)
+![Dashboard 1](images/Dashboard_1.png)
 
 Dashboard 2
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 2](images/Dashboard_2.png)
 
 ## Key Insights
 - **BMI**: Female members have a lower average BMI than male members.
