@@ -11,6 +11,18 @@ Dashboard 1
 Dashboard 2
 ![Dashboard 2](images/Dashboard_2.png)
 
+## Key analysis:
+i.	Calories Burned vs. Session Duration: Segmented by experience level, gender, workout type, and age group (Young, Mid-age, Old).
+ii.	Session Duration by BMI: Shows session length in relation to BMI.
+iii.	Fat Percentage Distribution: Overview of fat percentage across demographics.
+iv.	Average Fat Percentage by Experience: Breaks down average fat percentages by experience level.
+v.	Male-Female Ratio: Displays the proportion of male to female members.
+vi.	Experience Level Ratio: Shows distribution across beginner (1), intermediate (2), and advanced levels (3).
+vii.	Age Group Ratio: Indicates membership by age groups.
+viii.	Key Metrics:
+o	Average calories burned, fat percentage, session duration, BPM, BMI, and water intake.
+
+
 ## Key Insights
 - **BMI**: Female members have a lower average BMI than male members.
 - **Water Intake**: Experienced members and male members show higher water intake levels.
